@@ -1,0 +1,5 @@
+sử dụng ứng dụng blyk có trên chplay để cấu hình
+-cài đặt tọa độ trang trại 
+-điền email cần nhận được thông báo
+-tạo các dự án khác
+-nhiều chức năng khác có thể khám phá thêm
